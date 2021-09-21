@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ppue.github.io/sitemap.xml
